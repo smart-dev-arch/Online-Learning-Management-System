@@ -17,7 +17,5 @@ public class StudentCourse {
 
     private int credits;
 
-    private int awardedCredits;
-
-    private List<StudentDto> students;
+    private List<StudentCredits> students;
 }
